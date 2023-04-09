@@ -1,3 +1,6 @@
+## Add Zap to your server
+https://discord.com/oauth2/authorize?client_id=1094075911722254356&scope=bot&permissions=2147502080
+
 ## Run Zap on your local machine
 ### Prerequisites
 
